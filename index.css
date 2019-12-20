@@ -1,0 +1,12 @@
+.main-body {
+    width: 60%;
+    margin: auto;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.result {
+    padding: 2em;
+    margin-left: 3rem;
+    text-align: left;
+}
